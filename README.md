@@ -48,7 +48,7 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 
 ---
 
-## 🔥 Streak Stats  
+## 🔥Estadisticas  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gfdev10&theme=radical&hide_border=false"/>
