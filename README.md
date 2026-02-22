@@ -51,8 +51,8 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gfdev10&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfdev10&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=gfdev10&theme=radical&hide_border=false"/>
 </p>
 
 ---
