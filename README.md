@@ -8,7 +8,7 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 
 ---
 
-## Tecnologias   
+## 🚀 Tecnologias   
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +25,6 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
 ---
 
 ### 🗄️ Data  
@@ -33,8 +32,9 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ DevOps & Cloud
+---
 
+### 🛠️ DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -42,11 +42,31 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 
 ---
 
-### 🧠 Inteligencia Artificial
-
+### 🧠 Inteligencia Artificial  
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge)
 ![Python AI](https://img.shields.io/badge/Python%20for%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
 
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="165"/>
+</p>
 
+---
+
+## 🔥 Streak Stats  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical&hide_border=false"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gfdev10/gfdev10/output/github-contribution-grid-snake.svg"/>
+</p>
