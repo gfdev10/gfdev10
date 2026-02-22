@@ -48,15 +48,6 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gfdev10&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfdev10&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## 🔥 Streak Stats  
 
 <p align="center">
@@ -64,9 +55,3 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 </p>
 
 ---
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gfdev10/gfdev10/output/github-contribution-grid-snake.svg"/>
-</p>
