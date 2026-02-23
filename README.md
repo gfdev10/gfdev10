@@ -8,7 +8,7 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 
 ---
 
-## 🚀 Tecnologias   
+## 🚀 Stacks
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,9 +47,7 @@ Apasionado por la seguridad informática, la investigación digital y las tecnol
 ![Python AI](https://img.shields.io/badge/Python%20for%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-## 🔥Estadisticas  
-
+ 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gfdev10&theme=radical&hide_border=false"/>
 </p>
