@@ -1,6 +1,6 @@
 ## 💻 Gastón Ferrari  
 
-**Full Stack Software Architect | Educator **
+** Full Stack Software Architect | Educator **
 
 Desarrollador de software especializado en la arquitectura de soluciones Full Stack escalables, seguras y orientadas a alto rendimiento. Combino experiencia técnica sólida con visión estratégica para diseñar ecosistemas digitales modernos.  
 
